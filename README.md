@@ -34,11 +34,21 @@ I'm an AI/ML Engineer passionate about building intelligent applications that so
 - **AI Medical Algorithm Generation:** An AI system for generating clinical decision algorithms with source attribution and interactive decision-tree visualization.
 - **Blind Assistant:** A computer vision application using object detection and depth estimation to provide audio feedback for visually impaired users.
 
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareemhamdy123&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kareemhamdy123&layout=compact&theme=tokyonight&hide_border=true)
+
+
+
 ### 📫 Connect With Me
 
 - **Email:** kareemhamdyali1@gmail.com
-- **LinkedIn:** [Kareem Hamdy Ali](https://www.linkedin.com/in/kareemhamdy)
+- **LinkedIn:** [Kareem Hamdy Ali](https://www.linkedin.com/in/kareem-hamdy-64270a27b/)
 - **GitHub:** [@kareemhamdy123](https://github.com/kareemhamdy123)
+
 
 ---
 
