@@ -2,6 +2,8 @@
 
 ### AI / Machine Learning Engineer | Generative AI | LLMs & RAG
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%2F+Machine+Learning+Engineer;Generative+AI+%7C+LLMs+%7C+RAG;Building+Practical+AI+Solutions)](https://git.io/typing-svg)
+
 I'm an AI/ML Engineer passionate about building intelligent applications that solve real-world problems. I work across Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI, with a focus on developing end-to-end AI solutions from data processing and model development to API integration and deployment.
 
 ### 🚀 Areas of Interest
